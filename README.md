@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FatimaMehmood123
-- 👀 I’m interested in web development, data scientist
-- 🌱 I’m currently learning BS Data Science from Gift University
-- 💞️ I’m looking to collaborate on web delopment ,frontend developer, backend developer, python, java, R, Html, css, javascript, bootstrap. 
+- 👀 I’m interested in data scientist
+- 🌱 I’m completed my BS Data Science from Gift University
+- 💞️ I’m looking to collaborate on Data science, Machine Learning, Artificial Intelligence, Python. 
 - 📫 How to reach me https://www.linkedin.com/in/fatima-rajpot-205aa1242/ , fatimarajpot85@gmail.com
 
 <!---
